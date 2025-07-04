@@ -1,6 +1,9 @@
 # README
 This is the code of Ferry_Li for the 4th DataCV Challenge in conjunction with ICCV 2025.
 
+## Dataset
+The 10K-scale training set is [here](https://drive.google.com/file/d/1Lw09rwuVQN8jOYjx2YJQN431TuCECfZn/view?usp=drive_link).
+
 ## Steps
 1. Step 1: Use `feature_extractor.py` provided in [https://github.com/HaiyuWu/Vec2Face](https://github.com/HaiyuWu/Vec2Face) to extract image embeddings from the current [HSFace dataset](https://huggingface.co/datasets/BooBooWu/Vec2Face/tree/main/HSFaces).
 
