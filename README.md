@@ -2,7 +2,7 @@
 This is the code of Ferry_Li for the 4th DataCV Challenge in conjunction with ICCV workshop 2025: [Hybrid Generative Fusion for Efficient and Privacy-Preserving Face Recognition Dataset Generation](https://arxiv.org/abs/2508.10672)
 
 ## FRAMEWORK
-
+![image](framework_01.jpg)
 
 ## Dataset
 The 10K-scale training set is [here](https://drive.google.com/file/d/1Lw09rwuVQN8jOYjx2YJQN431TuCECfZn/view?usp=drive_link).
